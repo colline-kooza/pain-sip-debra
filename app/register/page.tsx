@@ -42,7 +42,7 @@ export default function AuthenticationPage() {
         Login
       </Link>
       <div className="relative hidden h-full flex-col bg-muted p-10 dark:text-white text-black lg:flex dark:border-r ">
-      <img className="blur-[2px] object-cover w-full h-full rounded-sm" src="https://img.freepik.com/free-photo/abstract-paint-drops-swirling-colorful-chaos-generated-by-ai_188544-19706.jpg?ga=GA1.1.123314603.1706863307&semt=ais_hybrid" 
+      <img className="blur-[2px] object-cover w-full h-full rounded-sm" src="https://img.freepik.com/free-photo/brush-smearing-bright-paint_23-2147895399.jpg?ga=GA1.1.123314603.1706863307&semt=ais_hybrid" 
       alt="" />
       </div>
       <div className="lg:p-8">

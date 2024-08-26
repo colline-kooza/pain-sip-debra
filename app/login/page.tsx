@@ -29,7 +29,7 @@ export default async function LoginPage() {
        Register
       </Link>
       <div className="relative hidden h-full flex-col bg-muted p-10 dark:text-white text-black lg:flex dark:border-r ">
-      <img className="blur-[0px] object-cover w-full h-full rounded-sm" src="https://img.freepik.com/premium-photo/nice-handmade-brush-with-colors-rainbow_1290981-3623.jpg?ga=GA1.1.123314603.1706863307&semt=ais_hybrid" alt="" />
+      <img className="blur-[0px] object-cover w-full h-full rounded-sm" src="https://img.freepik.com/premium-photo/circle-that-is-white-background-with-circle-middle_729149-142786.jpg?ga=GA1.1.123314603.1706863307&semt=ais_hybrid" alt="" />
       </div>
       <div className="lg:p-8">
         <div className="mx-auto flex w-full flex-col justify-center space-y-6 sm:w-[400px]">

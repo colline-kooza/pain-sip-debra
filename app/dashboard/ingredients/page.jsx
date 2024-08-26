@@ -61,7 +61,7 @@ export default async function page() {
           <div className="lg:mr-0 md:mr-5 mr-12 flex items-center gap-2">
            
             <Link href="/dashboard/add-ingredient/new">
-                 <Button size="sm" className="h-8 gap-1">
+                 <Button size="sm" className="h-8 gap-1 ">
               <PlusCircle className="h-3.5 w-3.5" />
               <span className="sr-only sm:not-sr-only sm:">
                 Add New ingredient

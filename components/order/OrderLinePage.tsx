@@ -43,7 +43,7 @@ import { ScrollArea, ScrollBar } from '../ui/scroll-area'
         <div className='lg:w-[72%] w-full lg:px-4 md:px-3 px-2 lg:py-4 md:py-3 py-2' >
           <div>
             <Card className='border-none p-0 shadow-none flex justify-between items-center'>
-              <CardTitle className='text-xl font-bold tracking-wide'>Order Line</CardTitle>               
+              {/* <CardTitle className='text-xl font-bold tracking-wide'>Select your order products</CardTitle>                */}
         <CardTitle className='text-xl font-bold tracking-wide lg:hidden block'>
       <Sheet>
       <SheetTrigger asChild>
@@ -63,7 +63,7 @@ import { ScrollArea, ScrollBar } from '../ui/scroll-area'
             </Card>
 
             <div>
-              <SubHead/>
+              {/* <SubHead/> */}
             </div>
 
             <div>
